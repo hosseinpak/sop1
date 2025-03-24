@@ -1,2 +1,135 @@
 # sop1
 sop 1
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0"/>
+        <link
+            rel="apple-touch-icon"
+            sizes="180x180"
+            href="/icons/ambient_icon_x180.png"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
+            href="/icons/ambient_icon_transparent_x16.png"
+         />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="32x32"
+            href="/icons/ambient_icon_transparent_x32.png"
+        />
+        <link rel="manifest" href="/site.webmanifest" />
+       
+        <!-- <meta name="msapplication-TileColor" content="#0d1117" />
+        <meta name="theme-color" content="#7371fc" />  -->
+
+        <meta name="title" content="Ambient | Zero-to-One Decentralized Trading Protocol" />
+        <title>Ambient | Zero-to-One Decentralized Trading Protocol</title>
+        <meta name="build-time" content="1742490901340" />
+        <meta name="version" content="3.3.8" />
+        <meta name="print" content="3cd374848" />
+
+        <!-- Meta tags using environment variables -->
+        <meta name="description" content="Swap cryptocurrencies like a pro with Ambient. Decentralized trading is now better than ever.">
+        <meta name="keywords" content="Ambient, swap, trade, decentralized, trading, cryptocurrencies, crypto, blockchain, finance, defi, defi trading, defi swap, defi exchange, defi liquidity, defi protocol">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://ambient.finance" />
+        <meta property="og:title" content="Ambient Finance x Monad">
+        <meta property="og:description" content="Swap cryptocurrencies like a pro with Ambient. Decentralized trading is now better than ever.">
+        <meta property="og:image" content="https://us.ambient.finance/preview_ambient.png" />
+
+        <!-- Twitter -->
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@ambient_finance" />
+
+        <meta property="twitter:url" content="https://ambient.finance" />
+        <meta property="twitter:title" content="Ambient Finance x Monad" />
+        <meta
+            property="twitter:description"
+            content="Swap cryptocurrencies like a pro with Ambient. Decentralized trading is now better than ever."
+        />
+        <meta
+            property="twitter:image"
+            content="https://us.ambient.finance/preview_ambient.png"
+        />
+        
+        <style>
+            /* background color shown during app load */
+            body {
+                background-color: #0e0e14; 
+            }
+        </style>
+
+        <!-- <link rel="preload" as="image" href="/assets/home_wallpaper-KI3qiyrN.webp"> -->
+        <link rel="preload" as="image" href="/assets/large-vMbD2IRY.svg">
+        <link rel="preload" as="font" type="font/woff2" href="https://fonts.gstatic.com/s/lexenddeca/v21/K2F1fZFYk-dHSE0UPPuwQ5qnJy8.woff2" crossorigin="anonymous">
+        <link rel="preload" as="font" type="font/woff2" href="https://fonts.gstatic.com/s/lexendexa/v30/UMBXrPdOoHOnxExyjdBeai3dAw.woff2" crossorigin="anonymous">
+        <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Fira+Mono:wght@100;300;400;500&display=swap">
+        <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400&display=swap">
+        <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100;300&display=swap">
+        <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@100;300;500&display=swap">
+        <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+        <link rel="preload" as="fetch" href="https://ambindexer.net/gcgo/chain_stats?chainId=0x1&n=10" crossorigin="anonymous">
+        <link rel="preload" as="fetch" href="https://ambindexer.net/scroll-gcgo/chain_stats?chainId=0x82750&n=20" crossorigin="anonymous">
+        <link rel="preload" as="fetch" href="https://ambindexer.net/blast-gcgo/chain_stats?chainId=0x13e31&n=10" crossorigin="anonymous">
+        <link rel="preload" as="fetch" href="https://raw.githubusercontent.com/scroll-tech/token-list/main/scroll.tokenlist.json" crossorigin="anonymous">
+        <link rel="preload" as="fetch" href="https://tokens.coingecko.com/ethereum/all.json" crossorigin="anonymous">
+        <link rel="preload" as="fetch" href="https://tokens.coingecko.com/blast/all.json" crossorigin="anonymous">
+        <link rel="preload" as="fetch" href="https://tokens.coingecko.com/base/all.json" crossorigin="anonymous">
+        <link rel="preload" as="fetch" href="https://tokens.coingecko.com/scroll/all.json" crossorigin="anonymous">
+
+        
+      <script type="module" crossorigin src="/assets/index-QW1roOAg.js"></script>
+      <link rel="modulepreload" crossorigin href="/assets/styles-CPmrIe6g.js">
+      <link rel="modulepreload" crossorigin href="/assets/aes-js-DhM-1xhi.js">
+      <link rel="modulepreload" crossorigin href="/assets/readable-stream-Bta5baRs.js">
+      <link rel="modulepreload" crossorigin href="/assets/various-independent-libs-1-Bq-BOPmw.js">
+      <link rel="modulepreload" crossorigin href="/assets/tslib-omjJIosd.js">
+      <link rel="modulepreload" crossorigin href="/assets/vendor-suIfsA9M.js">
+      <link rel="modulepreload" crossorigin href="/assets/react-router-D16w2ROn.js">
+      <link rel="modulepreload" crossorigin href="/assets/noble-B_9m_32f.js">
+      <link rel="modulepreload" crossorigin href="/assets/ens-RTZc9XO3.js">
+      <link rel="modulepreload" crossorigin href="/assets/ethers-B8BGdZ5I.js">
+      <link rel="modulepreload" crossorigin href="/assets/various-independent-libs-2-BnGXU2ZH.js">
+      <link rel="modulepreload" crossorigin href="/assets/styling-C-7aLBNw.js">
+      <link rel="modulepreload" crossorigin href="/assets/qrcode-DAN1hMJ4.js">
+      <link rel="modulepreload" crossorigin href="/assets/coinbase-H7k2fmPV.js">
+      <link rel="modulepreload" crossorigin href="/assets/utils/dist/index.es.js-BzCRNqrG.js">
+      <link rel="modulepreload" crossorigin href="/assets/provider-DmLxR-fy.js">
+      <link rel="modulepreload" crossorigin href="/assets/walletconnect-BNp5jItN.js">
+      <link rel="modulepreload" crossorigin href="/assets/lib.esm-DP51No9Y.js">
+      <link rel="modulepreload" crossorigin href="/assets/esm-CwEz24uv.js">
+      <link rel="modulepreload" crossorigin href="/assets/web3modal-D4qPJO8p.js">
+      <link rel="modulepreload" crossorigin href="/assets/styled-components-ChTuhic-.js">
+      <link rel="modulepreload" crossorigin href="/assets/numbers-ItMiL6Hd.js">
+      <link rel="modulepreload" crossorigin href="/assets/assets-BssJHk-E.js">
+      <link rel="modulepreload" crossorigin href="/assets/framer-HSgpNKs2.js">
+      <link rel="modulepreload" crossorigin href="/assets/components-prUom0Ft.js">
+      <link rel="modulepreload" crossorigin href="/assets/d3-YJaXa9fX.js">
+      <link rel="modulepreload" crossorigin href="/assets/platformambient-DtAcxfV1.js">
+      <link rel="modulepreload" crossorigin href="/assets/trade-C6Shne0c.js">
+      <link rel="modulepreload" crossorigin href="/assets/websocket-CtEzZT7X.js">
+      <link rel="modulepreload" crossorigin href="/assets/futa-BGPr-8k0.js">
+      <link rel="modulepreload" crossorigin href="/assets/chat-utils-D1wA-Eui.js">
+      <link rel="modulepreload" crossorigin href="/assets/emoji-picker-react-0iaioeBm.js">
+      <link rel="modulepreload" crossorigin href="/assets/chat-C0_r_ydU.js">
+      <link rel="modulepreload" crossorigin href="/assets/global-_7V1EV17.js">
+      <link rel="stylesheet" crossorigin href="/assets/styles-Bo1g6WDO.css">
+    </head>
+    <body>
+        <script type="text/javascript">
+            const warningTitleCSS =
+                'color:red; font-size:60px; font-weight: bold; -webkit-text-stroke: 1px black;';
+            const warningDescCSS = 'font-size: 18px;';
+        </script>
+
+        <noscript>You need to enable JavaScript to run this app.</noscript>
+        <div id="root"></div>
+      </body>
+</html>
