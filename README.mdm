@@ -9,8 +9,7 @@ sop 1
             rel="apple-touch-icon"
             sizes="180x180"
             href="/icons/ambient_icon_x180.png"
-            
-        />
+        
         <link
             rel="icon"
             type="image/png"
