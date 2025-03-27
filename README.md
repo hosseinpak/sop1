@@ -6,10 +6,7 @@ sop 1
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0"/>
         <link
-            rel="apple-touch-icon"
-            sizes="180x180"
-            href="/icons/ambient_icon_x180.png"
-        
+         
         <link
             rel="icon"
             type="image/png"
