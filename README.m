@@ -3,7 +3,18 @@ sop 1
 <!DOCTYPE html>
 <html lang="en">
     <head>
-    
+       <link
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
+            href="/icons/ambient_icon_transparent_x16.png"
+         />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="32x32"
+            href="/icons/ambient_icon_transparent_x32.png"
+        />
         <link
             rel="icon"
             type="image/png"
