@@ -9,6 +9,17 @@ sop 1
             sizes="16x16"
             href="/icons/ambient_icon_transparent_x16.png"
          />
+         # sop1
+sop 1
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+       <link
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
+            href="/icons/ambient_icon_transparent_x16.png"
+         />
         <link
             rel="icon"
             type="image/png"
