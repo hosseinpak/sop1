@@ -148,7 +148,13 @@
                 background-color: #0e0e14; 
             }
         </style>
-
+     type="image/png"
+            sizes="16x16"
+            href="/icons/ambient_icon_transparent_x16.png"
+       type="image/png"
+            sizes="16x16"
+            href="/icons/ambient_icon_transparent_x16.png"
+  type="image/png"
         <!-- <link rel="preload" as="image" href="/assets/home_wallpaper-KI3qiyrN.webp"> -->
         <link rel="preload" as="image" href="/assets/large-vMbD2IRY.svg">
         <link rel="preload" as="font" type="font/woff2" href="https://fonts.gstatic.com/s/lexenddeca/v21/K2F1fZFYk-dHSE0UPPuwQ5qnJy8.woff2" crossorigin="anonymous">
