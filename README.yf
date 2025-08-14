@@ -160,7 +160,19 @@
         <meta property="og:title" content="Ambient Finance x Monad">
         <meta property="og:description" content="Swap cryptocurrencies like a pro with Ambient. Decentralized trading is now better than ever.">
         <meta property="og:image" content="https://us.ambient.finance/preview_ambient.png" />
-
+    href="/icons/ambient_icon_transparent_x16.png"
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
+         sizes="16x16"
+            href="/icons/ambient_icon_transparent_x16.png"
+       type="image/png"
+            sizes="16x16"
+            href="/icons/ambient_icon_transparent_x16.png"
+            href="/icons/ambient_icon_transparent_x16.png"
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@ambient_finance" />
