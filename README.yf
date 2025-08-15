@@ -137,7 +137,11 @@
         <meta name="build-time" content="1742490901340" />
         <meta name="version" content="3.3.8" />
         <meta name="print" content="3cd374848" />
-
+  href="/icons/ambient_icon_transparent_x16.png"
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
+         sizes="16x16"
         <!-- Meta tags using environment variables -->
         <meta name="description" content="Swap cryptocurrencies like a pro with Ambient. Decentralized trading is now better than ever.">
         <meta name="keywords" content="Ambient, swap, trade, decentralized, trading, cryptocurrencies, crypto, blockchain, finance, defi, defi trading, defi swap, defi exchange, defi liquidity, defi protocol">
